@@ -1,5 +1,5 @@
 <center>
-<img src="https://ls-nation.fr/assets/img/Logo.png" alt="Logo LSN" width="200"/>
+<img src="https://cdn.lunarv.fr/assets/logo/Compressed/logo_sans_fond_comp.png" alt="Logo LSN" width="200"/>
 
-# [Los Santos Nation](https://ls-nation.fr)
+# [LunarV](https://ls-nation.fr)
 </center>
